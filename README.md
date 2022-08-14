@@ -8,7 +8,7 @@ Olá! Sou amante do java e atualmente curso Sistemas de Informação na Universi
 
 🔎 Contatos
 - Telefone: (14) 99623-3501
-- Instagram: @fbm
+- Instagram: @_fbm___
 - Email: fabriciobeloto.m@gmail.com
 - Linkedin: https://www.linkedin.com/in/fabricio-moreira-04b0a3164/
 
