@@ -8,7 +8,7 @@ Olá! Sou amante do java e atualmente curso Sistemas de Informação na Universi
 🔎 Contatos
 - Telefone: (14) 99623-3501
 - Instagram: @_fbm___
-- Email: fabriciobeloto.m@gmail.com
+- Email: contatofabriciobm@gmail.com
 - Linkedin: https://www.linkedin.com/in/fabricio-moreira-04b0a3164/
 
 <div align="center">
@@ -26,7 +26,7 @@ Olá! Sou amante do java e atualmente curso Sistemas de Informação na Universi
  
 <div> 
   <a href="https://instagram.com/_fbm___" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:fabriciobeloto.m@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:contatofabriciobm@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/fabricio-moreira-04b0a3164/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
  </div>
