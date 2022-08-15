@@ -1,10 +1,9 @@
+ 🤵 Sobre mim <br>
+Olá! Sou amante do java e atualmente curso Sistemas de Informação na Universidade de Ourinhos (Unifio), e estou me dedicando nos estudos para futuramente me tornar um desenvolvedor Full Stack.
  - 💻 Atualmente trabalho como analista de testes de software e programador mobile
  - 🎓 Estudante de Sistemas de Informações
  - 🤹 Habilidades em linguagem HTML, CSS, Java e JavaScript
- - 💻 Conhecimento em banco de dados SQL, MYSQL e PostGree
-🤵 Sobre mim
-Ipaussu, SP
-Olá! Sou amante do java e atualmente curso Sistemas de Informação na Universidade de Ourinhos (Unifio), e estou me dedicando nos estudos para futuramente me tornar um desenvolvedor Full Stack.
+ - 💻 Conhecimento em banco de dados SQL, MYSQL e PostGree <br>
 
 🔎 Contatos
 - Telefone: (14) 99623-3501
