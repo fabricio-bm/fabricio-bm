@@ -3,7 +3,8 @@ Olá! Sou amante do java e atualmente curso Sistemas de Informação na Universi
  - 💻 Atualmente trabalho como analista de testes de software e programador mobile
  - 🎓 Estudante de Sistemas de Informações
  - 🤹 Habilidades em linguagem HTML, CSS, Java, Dart e SQL
- - 💻 Conhecimento em banco de dados MYSQL e PostGree <br>
+ - 💻 Conhecimento em banco de dados MYSQL e PostGree 
+ - Formação flutter pela ALURA<br>
 
 🔎 Contatos
 - Telefone: (14) 99623-3501
