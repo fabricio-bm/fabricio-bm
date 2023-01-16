@@ -4,7 +4,7 @@ Olá! Sou amante do java e atualmente curso Sistemas de Informação na Universi
  - 🎓 Estudante de Sistemas de Informações
  - 🤹 Habilidades em linguagem HTML, CSS, Java, Dart e SQL
  - 💻 Conhecimento em banco de dados MYSQL e PostGree 
- - Formação flutter pela ALURA<br>
+ - 💻 Formação flutter pela ALURA<br>
 
 🔎 Contatos
 - Telefone: (14) 99623-3501
