@@ -1,6 +1,6 @@
  🤵 Sobre mim <br>
 Olá! Sou amante do java e atualmente curso Sistemas de Informação na Universidade de Ourinhos (Unifio), e estou me dedicando nos estudos para futuramente me tornar um desenvolvedor Full Stack.
- - 💻 Atualmente trabalho como analista de testes de software e programador mobile
+ - 💻 Atualmente trabalho como programador mobile utilizando Java Android, analista de testes de software e também ativação e vínculos com aparelhos SATS Fiscais.
  - 🎓 Estudante de Sistemas de Informações
  - 🤹 Habilidades em linguagem HTML, CSS, Java, Dart e SQL
  - 💻 Conhecimento em banco de dados MYSQL e PostGree 
